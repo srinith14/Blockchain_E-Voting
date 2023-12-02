@@ -1,4 +1,4 @@
-# BlockChainVoting
+# Blockchain_E-Voting
 
 A blockchain-based E-voting system.
 > The application is MIT-Licensed.
